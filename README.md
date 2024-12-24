@@ -1,0 +1,1 @@
+This Java-based project is designed to efficiently solve 9x9 Sudoku puzzles using the backtracking algorithm. It can process partially completed puzzles, generate valid solutions, or notify users if a solution is not possible. The project highlights algorithmic thinking and problem-solving skills, with potential for future enhancement.
